@@ -31,7 +31,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
     list(set = set, 
 		get = get,
-        setInverse = setInverse,
+		setInverse = setInverse,
 		getInverse = getInverse)
 }
 
